@@ -13,9 +13,9 @@ print("Array2:")
 print(array2)
 
 second_row_second_matrix <- array1[2, , 2]
-print("The second row of the second matrix of the array:")
+print("Array 1: The second row of the second matrix of the array:")
 print(second_row_second_matrix)
 
-element_3row_3col_firstmatrix <- array2[3, 2, 1]  # Row 3, Column 2, Table 1
-print("The element in the 3rd row and 3rd column of the 1st matrix:")
-print(element_3row_3col_firstmatrix)
+element_3row_2col_firstmatrix <- array2[3, 2, 1]  # Row 3, Column 2, Table 1
+print("The element in the Array 2: 3rd row and 3rd column of the 1st matrix:")
+print(element_3row_2col_firstmatrix)
