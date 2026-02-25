@@ -1,0 +1,128 @@
+"Student_ID","First_Name","Last_Name","Age","Gender","Course","Enrollment_Date","Total_Payments"
+101,"John","Smith",22,"M","Data Science","2022-05-15",1200
+102,"Emily","Johnson",24,"F","Machine Learning","2022-03-18",1400
+103,"Michael","Williams",21,"M","Data Science","2022-06-25",900
+104,"Sarah","Brown",23,"F","Data Science","2022-03-18",1100
+105,"David","Davis",20,"M","Web Development","2021-09-10",950
+106,"Jessica","Miller",25,"F","Machine Learning","2022-04-22",1300
+107,"Brian","Wilson",19,"M","Data Science","2022-07-02",1000
+108,"Amanda","Taylor",22,"F","Machine Learning","2022-08-15",1200
+109,"William","Anderson",24,"M","Data Science","2022-01-10",950
+110,"Olivia","Martinez",26,"F","Data Science","2023-02-28",1150
+111,"Williams","Smith",22,"M","Data Science","2022-05-15",1200
+112,"Emily","Emodi",24,"F","Machine Learning","2022-03-18",1400
+113,"Esther","Adams",21,"M","Data Science","2022-06-25",900
+114,"Sarah","Brown",23,"F","Data Science","2022-03-18",1100
+115,"David","Davis",20,"M","Web Development","2021-09-10",950
+501,"Davis","Brown",22,"M","Data Analysis","2022-03-18",20000
+502,"Anita","West",22,"F","Data Science","2022-03-18",30000
+503,"Olawale Akintola","Davis",22,"M","Web Development","2022-03-18",30000
+504,"Wike","Akintola",22,"M","Data Science","2022-03-18",36000
+505,"Emily","Leke",22,"M","Data Science","2022-03-18",40000
+506,"Ayodele","Davis",22,"M","Machine Learning","2022-03-18",37440
+507,"Emily","Davis",22,"M","Data Science","2022-03-18",37488
+508,"Emily","Davis",22,"M","Data Science","2022-03-18",37497.6
+509,"Emily","Davis",22,"M","Data Science","2022-03-18",1400
+101,"Ethan","Miller",22,"M","Data Science","2022-05-15",1200
+102,"Olivia","Johnson",24,"F","Machine Learning","2022-03-18",1400
+103,"Noah","Williams",21,"M","Data Science","2022-06-25",900
+104,"Emma","Brown",23,"F","Data Science","2022-03-18",1100
+105,"Liam","Davis",20,"M","Web Development","2021-09-10",950
+106,"Ava","Miller",25,"F","Machine Learning","2022-04-22",1300
+107,"William","Wilson",19,"M","Data Science","2022-07-02",1000
+108,"Sophia","Taylor",22,"F","Machine Learning","2022-08-15",1200
+109,"James","Anderson",24,"M","Data Science","2022-01-10",950
+110,"Isabella","Martinez",26,"F","Data Science","2023-02-28",1150
+500,"Jackson","Murphy",21,"M","Web Development","2023-06-05",1050
+510,"Joseph","Williams",22,"F","Machine Learning","2022-03-18",20000
+511,"Kylian","Eden",22,"M","Machine Learning","2022-03-18",20000
+512,"Esther","Naomi",21,"F","Machine Learning","2022-03-18",20000
+513,"Lay","Martin",22,"M","Web Development","2022-03-18",20000
+514,"Rock","Shy",23,"M","Data Analysis","2022-03-18",1400
+144,"Ethe","Miller",22,"M","Data Science","2022-05-15",1200
+145,"Olivian","Johnson",24,"F","Machine Learning","2022-03-18",1400
+146,"Noah","Ray",21,"M","Data Science","2022-06-25",900
+147,"Emma","Brown",23,"F","Data Science","2022-03-18",1100
+148,"Liam","Davis",20,"M","Web Development","2021-09-10",950
+149,"Ava","Miller",25,"F","Machine Learning","2022-04-22",1300
+155,"Benjamin","Thompson",20,"M","Web Development","2022-11-14",1050
+156,"Mia","Hernandez",23,"F","Machine Learning","2022-09-20",1350
+157,"Alexander","Davis",21,"M","Data Science","2022-07-05",920
+114,"Harper","Rodriguez",22,"F","Data Science","2022-03-18",1120
+115,"Daniel","White",24,"M","Web Development","2021-10-30",970
+159,"Emily","Murphy",21,"F","Machine Learning","2023-08-02",1270
+102,"Olivia","Rayay",24,"F","Machine Learning","2022-03-18",1400
+103,"Noah","Rock",21,"M","Data Science","2022-06-25",900
+111,"May","Thompson",20,"M","Web Development","2022-11-14",1050
+112,"Mia","Hernandez",23,"F","Machine Learning","2022-09-20",1350
+113,"Alexander","Davis",21,"M","Data Science","2022-07-05",920
+500,"Emily","Murphy",21,"F","Machine Learning","2023-08-02",1270
+515,"Ben","Thompson",20,"M","Web Development","2022-11-14",1050
+516,"Mia","Hernandez",23,"F","Machine Learning","2022-09-20",1350
+517,"Alexander","Davis",21,"M","Data Science","2022-07-05",920
+518,"Adeniran","Omoshola",22,"F","Data Analysis","2021-07-01",50000
+519,"Iwueze","Olaoluwa",23,"M","Data Analysis","2020-07-10",55000
+520,"Faramotu Ismail","Davis",23,"M","Data Analysis","2020-07-16",60500
+521,"Ifarele","Adeola",23,"M","Data Analysis","2022-08-30",66550
+522,"Folorunsho","Dada",22,"M","Web Development","2022-07-01",73205
+523,"Ikechukwu","Victor",22,"M","Web Development","2024-07-01",80526
+524,"Ahmed","Mohammed",23,"F","Web Development","2021-07-19",88578
+525,"Binta","Sanni",22,"F","Web Development","2021-07-01",97436
+526,"Chukwu","Ike",22,"M","Web Development","2022-07-01",107179
+527,"Ola Enioluwa","Davis",22,"F","Machine Learning","2021-01-01",117897
+528,"Okafor","Chike",23,"M","Data Analysis","2020-07-11",129687
+529,"Chika Nwosu","Davis",23,"F","Data Analysis","2021-08-09",142656
+530,"Eze Chinedu","Davis",22,"M","Data Analysis","2023-07-01",156921
+531,"Adaobi Ekeinde","Davis",23,"M","Data Analysis","2023-07-09",172614
+532,"Yusuf Ibrahim","Davis",22,"M","Cyber Security","2005-08-01",189875
+533,"Amaka Azikiwe","Davis",23,"M","Cyber Security","2023-07-28",208862
+534,"Onyeka Okonkwo","Davis",23,"F","Cyber Security","2016-07-16",229749
+535,"Chioma Adebayo","Davis",22,"F","Cyber Security","2022-07-01",252724
+536,"Ifeanyi Ekpo","Davis",22,"F","Cyber Security","2022-07-01",277996
+537,"Ngozi Abubakar","Davis",20,"F","Cyber Security","2024-07-01",305795
+538,"Abdul Nasiru","Davis",21,"F","Cyber Security","2023-07-01",336375
+539,"Zainab Adeyemi","Davis",19,"F","Cyber Security","2022-07-01",370012
+540,"Obinna Onwuka","Davis",25,"F","Data Analysis","2023-07-09",407014
+541,"Amina Osagie","Davis",22,"M","Data Analysis","2005-08-01",447715
+542,"Chinonso Uche","Davis",23,"M","Data Analysis","2023-07-28",1400
+543,"Femi Abdullahi","Davis",22,"M","Data Analysis","2023-07-01",1400
+544,"Halima Bakare","Davis",23,"M","Data Analysis","2022-07-17",1400
+545,"Chibuzo Mohammed","Davis",21,"M","Data Analysis","2020-09-01",1400
+546,"Oluchi Iwuoha","Davis",22,"F","Machine Learning","2021-01-31",1400
+547,"Emeka Anikulapo","Davis",19,"M","Data Analysis","2024-07-19",1400
+548,"Hadiza Ogundipe","Davis",18,"M","Data Analysis","2022-08-06",1400
+549,"Nneka Nwachukwu","Davis",22,"M","Web Development","2023-08-01",1400
+550,"Adeola Okoro","Davis",22,"M","Web Development","2023-07-12",1400
+551,"Idris Ibrahim","Davis",23,"M","Web Development","2024-08-31",1400
+552,"Chinyere Adeyemi","Davis",23,"M","Data Science","2022-10-07",1400
+553,"Umar Abdullahi","Davis",22,"M","Web Development","2024-07-01",1400
+554,"Nkem Adebayo","Davis",20,"M","Web Development","2024-07-21",1400
+555,"Ayodele Osagie","Davis",22,"F","Machine Learning","2021-01-30",1400
+556,"Chiwendu Ekpo","Davis",21,"M","Machine Learning","2020-01-30",1400
+557,"Fatima Azikiwe","Davis",22,"F","Data Analysis","2021-07-01",1400
+558,"Chukwudi Ekeinde","Davis",19,"M","Cyber Security","2022-08-28",1400
+559,"Kemi Uche","Davis",18,"M","Cyber Security","2022-07-06",1400
+560,"Jide Bakare","Davis",18,"M","Cyber Security","2023-09-02",1400
+561,"Adaobi Iwuoha","Davis",19,"M","Cyber Security","2022-08-06",1400
+562,"Suleiman Mohammed","Davis",23,"M","Cyber Security","2020-09-25",1400
+563,"Ifeoluwa Anikulapo","Davis",23,"M","Cyber Security","2023-08-31",1400
+217,"Chukwudi","Davis",22,"M","Data Science","2022-05-15",1200
+218,"Ngozi","Eze",24,"F","Machine Learning","2022-03-18",1400
+219,"Ifeoluwa","Adewale",21,"M","Data Science","2022-06-25",900
+220,"Ada","Adeleke",23,"F","Data Science","2022-03-18",1100
+221,"Kehinde","Bakare",20,"M","Web Development","2021-09-10",950
+222,"Amara","Okonkwo",25,"F","Machine Learning","2022-04-22",1300
+223,"Uche","Adebayo",19,"M","Data Science","2022-07-02",1000
+224,"Nneka","Nwachukwu",22,"F","Machine Learning","2022-08-15",1200
+225,"Emeka","Okafor",24,"M","Data Science","2022-01-10",950
+226,"Chinyere","Nwosu",26,"F","Data Science","2023-02-28",1150
+227,"Obinna","Onyekachi",20,"M","Web Development","2022-11-14",1050
+228,"Chinwe","Okoye",23,"F","Machine Learning","2022-09-20",1350
+229,"Ugochukwu","Okafor",21,"M","Data Science","2022-07-05",920
+230,"Ijeoma","Uzoma",22,"F","Data Science","2022-03-18",1120
+231,"Obi","Okonkwo",24,"M","Web Development","2021-10-30",970
+232,"Amina","Adekunle",21,"F","Machine Learning","2022-08-12",1270
+234,"Ibrahim","Okafor",22,"M","Data Science","2022-02-03",950
+235,"Zainab","Abiodun",23,"F","Web Development","2022-07-21",1050
+236,"Nasiru","Adebayo",24,"M","Data Science","2022-05-09",1120
+237,"Aisha","Okonkwo",25,"F","Machine Learning","2023-01-15",1300
